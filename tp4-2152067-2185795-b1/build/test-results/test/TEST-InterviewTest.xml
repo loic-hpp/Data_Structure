@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InterviewTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-19T05:21:25" hostname="NTLF-PC" time="0.143">
+  <properties/>
+  <testcase name="simple()" classname="InterviewTest" time="0.097"/>
+  <testcase name="case0()" classname="InterviewTest" time="0.002"/>
+  <testcase name="case1()" classname="InterviewTest" time="0.002"/>
+  <testcase name="case2()" classname="InterviewTest" time="0.003"/>
+  <testcase name="case3()" classname="InterviewTest" time="0.005"/>
+  <testcase name="case4()" classname="InterviewTest" time="0.002"/>
+  <testcase name="case5()" classname="InterviewTest" time="0.006"/>
+  <testcase name="empty()" classname="InterviewTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
